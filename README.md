@@ -1,5 +1,3 @@
 # entidad-relacional
 
-
-
-![Base drawio](https://github.com/kevin-coaquira/entidad-relacional/assets/116269453/4aa0a73b-b8e2-4801-bde5-8ecfbd055fca)
+![image](https://github.com/kevin-coaquira/entidad-relacional/assets/91737963/2c006993-e862-4bff-9387-7b423f249cb9)
